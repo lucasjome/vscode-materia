@@ -1,5 +1,5 @@
 {
-	"name": "vscode-materia",
+	"name": "vscode-materia-mod",
 	"displayName": "Materia",
 	"description": "A neutral material theme",
 	"version": "0.4.5",
@@ -15,17 +15,17 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Materia",
+				"label": "Materia  MOD",
 				"uiTheme": "vs-dark",
 				"path": "./themes/materia.json"
 			},
 			{
-				"label": "Materia Contrast",
+				"label": "Materia Contrast MOD",
 				"uiTheme": "vs-dark",
 				"path": "./themes/materia-contrast.json"
             },
 			{
-				"label": "Materia Contrast Darker",
+				"label": "Materia Contrast Darker MOD",
 				"uiTheme": "vs-dark",
 				"path": "./themes/materia-contrast-darker.json"
             }
@@ -33,11 +33,11 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/m-thorsen/vscode-materia"
+		"url": "https://github.com/lucasjome/vscode-materia"
 	},
 	"__metadata": {
-		"id": "a45d65e7-7768-450e-a774-7b3b28271472",
-		"publisherDisplayName": "Martin Thorsen",
-		"publisherId": "18cf6731-092d-4166-a4cc-81af1bae057a"
+		"id": "",
+		"publisherDisplayName": "",
+		"publisherId": ""
 	}
 }
