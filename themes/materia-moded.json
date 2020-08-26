@@ -1,5 +1,5 @@
 {
-  "name": "Materia Darker Contrast MODED",
+  "name": "Materia Darker Moded",
   "type": "dark",
   "semanticHighlighting": true,
   "semanticTokenColors": {
@@ -1823,7 +1823,7 @@
   "colors": {
     "activityBar.background": "#212121",
     "activityBar.foreground": "#9E9E9E",
-    "activityBarBadge.background": "#448AFF",
+    "activityBarBadge.background": "#3369bf",
     "activityBarBadge.foreground": "#FFFFFF",
     "badge.background": "#448AFF",
     "button.background": "#448AFF50",
